@@ -31,7 +31,7 @@ Kompilasi
   * Kompilasi dengan cara:
   
   ```
-  NamaClass.def. 
+  NamaClass.def
   
   ```
   
