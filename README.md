@@ -7,14 +7,14 @@ ruby adalah convension over configuration, artinya mengutamakan konvensi penulis
 Code dan Type Data
 ------------------
 
-|----------------------------------------|
+------------------------------------------
 |     CODE        | TYPE DATA            |
 |-----------------|----------------------|
 |a       = "test" | STRING               |
 |a       = 123    | berubah jadi INTEGER |
 |a       = (1..5) | berubah jadi RANGE   |
 |result  = a.to_a | berubah jadi ARRAY   |
-|
+------------------------------------------
 
 
  * $global       -> global variable
