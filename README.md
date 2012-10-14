@@ -25,16 +25,23 @@ Code dan Type Data
  * Class         -> Constant names
  * :symbol       -> symbol
  
- Kompilasi
- ---------
+Kompilasi
+---------
+
   * Kompilasi dengan cara:
+  
   ```
   NamaClass.def. 
   
+  ```
+  
   * Contoh:
+  
   ```
   HelloWorld.data
-
+  
+  ```
+  
 Sumber
 ------
 Dari berbagai sumber. 
